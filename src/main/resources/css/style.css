@@ -1,0 +1,14 @@
+
+.border {
+    -fx-border-color: #3064b8;
+    -fx-border-width: 3 ;
+    -fx-border-insets: 15,15,15,15 ;
+}
+.bold { -fx-font-weight: bold}
+
+.textField {
+    -fx-border-color: #3064b8;
+    -fx-border-width: 1 ;
+    -fx-border-insets: 15,15,15,15 ;
+}
+
