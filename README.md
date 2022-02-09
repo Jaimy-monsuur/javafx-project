@@ -1,4 +1,4 @@
-# JavaFX Starter
+# based on JavaFX Starter
 
 This project is meant to be a simple starter for JavaFX 17 under Maven. 
 It's not comprehensive, because it doesn't build to a runnable jar... yet.
@@ -16,6 +16,10 @@ Instructions:
 5. Perform: LifeCycle > clean + install
 6. Perform: Plugins > javafx > javafx:run
 7. Customize to your own needs
+
+# java assignment based on a Javafx starter 
+
+A movie management system
 
 log in (log in gegevens)
  Username: Kevin, WW: niveK, UserType.User
