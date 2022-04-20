@@ -1,8 +1,5 @@
 # based on JavaFX Starter
 
-This project is meant to be a simple starter for JavaFX 17 under Maven. 
-It's not comprehensive, because it doesn't build to a runnable jar... yet.
-
 It is not assumed that you have Maven installed on your own machine,
 this project only runs in the Maven tab in IntelliJ (I'm assuming your are using that).
 
